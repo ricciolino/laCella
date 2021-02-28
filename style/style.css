@@ -1,0 +1,121 @@
+
+
+				/* body */
+
+.Body { background-color: #fff9d5; }
+
+
+				/* footer */
+
+.foo1 { font-family:Courier; padding-top:10px; font-size:15px; margin:0; text-align:center; color:#a15425; }
+.foo2 { font-family:Courier; padding-top:3px; font-size:15px; margin:0; text-align:center; color:#a15425; }
+.foo3 { font-family:Courier; padding-top:2px; font-size:14px; margin:0; text-align:center; color:#a15425; }
+
+
+				/* general(all pages) */
+
+.title { font-family:Courier; font-size:60px; text-align:center; padding-top:15px; padding-bottom:15px; color:#a15425; margin:0; }
+.menu { width:100%; height:90px; }
+.contentTitle { font-family:Courier; text-align:center; color:#a15425; font-size:40px;height:45px;}
+.header {width:100%;}
+.languages {text-align:center;width:50%;padding-left:13%;}
+.login {text-align:right;width:50%; padding-right:3%;}
+#back { width:71%; margin:auto; background-color: #eae1bc; }
+#desc { font-family:Courier; font-size:20px; color:#a15425; padding: 15px 45px 15px 45px; text-align:justify; }
+#prezzi { font-family:Courier; font-size:20px; color:#a15425; text-align:center; font-weight:bold; padding: 0px 45px 15px 45px; }
+
+
+				/* menu */
+
+#links { background: #e3cfa8; list-style: none; margin: 0; padding: 0; width: 100%; height:100%; }
+#links li { float:left; text-align:center; font-size:25px; margin: 0; padding: 0; width: 20%; height:100%; }
+#links a { color: #6f2f08; display: block; width:100%; text-decoration: none; vertical-align:middle; padding-top:11.5%;padding-bottom:11.5%;}
+#links a:hover { background: #a15425; color: #ffffff; }
+#linksphp { background: #e3cfa8; list-style: none; margin: 0; padding: 0; width: 100%; height:55px; }
+#linksphp li { float:left; font:Courier; font-size:18px; }
+#linksphp a { background: #e3cfa8; color: #6f2f08; display: block; padding: 30px 56.4px; text-decoration: none; }
+#linksphp a:hover { background: #a15425; color: #ffffff; }
+
+
+				/* index */
+
+#divIndex{ height:235px; padding-top:10px; padding-bottom:10px; background-color: #eae1bc; }
+#enter img:hover { background: #e3cfa8; }
+#indexImgLogo {  height:200; border:solid; border-color:#a15425; border-color:#a15425; padding: 15px 45px 15px 45px; }
+#enterP { font-family:Courier; font-size:14px; color:#a15425; margin:0; padding:0; }
+#arrow { width:20px; padding: 0px 0px 0px 0px; }
+#indexTitle { font-family:Courier; font-size:75px; text-align:center; color:#a15425; }
+
+
+				/* home */
+
+#divHomeImg { width:800px; height:602px; border-style:solid; border-color:#a15425; }
+#homeImg { width:800.8px; height:601.91px; }
+
+
+				/* papavero */
+
+#divPapaveroImg1 { width:649.2px; height:450.09px; border-style:solid; border-color:#a15425; }
+#divPapaveroImg2 { width:249.2px; height:333.09px; border-style:solid; border-color:#a15425; float:left; margin-right:10px; }
+#divPapaveroImg3 { width:249.2px; height:333.09px; border-style:solid; border-color:#a15425; float:left; }
+#divPapaveroImg4 { width:419.2px; height:333.09px; border-style:solid; border-color:#a15425; margin-left:10px; overflow:hidden;}
+#divContImgPapavero { width:965.6px; }
+#papaveroImg1 { width:650px; height:450px; }
+#papaveroImg2 { width:250px; height:333px; }
+#papaveroImg3 { width:250px; height:333px; }
+#papaveroImg4 { width:420px; height:333px; }
+
+
+				/* girasole */
+
+#divGirasoleImg1 { width:649.2px; height:450.09px; border-style:solid; border-color:#a15425; }
+#divGirasoleImg2 { width:359.2px; height:333.09px; border-style:solid; border-color:#a15425; float:left; margin-right:10px; }
+#divGirasoleImg3 { width:399.2px; height:333.09px; border-style:solid; border-color:#a15425; margin-left:10px; overflow:hidden; }
+#divGirasoleImg4 { width:399.2px; height:333.09px; border-style:solid; border-color:#a15425; float:left; margin-right:10px; }
+#divGirasoleImg5 { width:384.2px; height:333.09px; border-style:solid; border-color:#a15425; margin-left:10px; overflow:hidden;}
+#divContImgGirasole1 { width:780.4px; margin-bottom:15px; }
+#divContImgGirasole2 { width:805.4px; }
+#girasoleImg1 { width:650px; height:450px; }
+#girasoleImg2 { width:360px; height:333px; }
+#girasoleImg3 { width:400px; height:333px; }
+#girasoleImg4 { width:400px; height:333px; }
+#girasoleImg5 { width:385px; height:333px; }
+
+
+				/* prodotti */
+
+#olio { font-size:35px; text-align:left; margin-left: 130px; color:#a15425; }
+#olioImg {float:left; margin-right:50px; margin-left:70px;}
+#olioDivImg { float:left; margin-left:-320px; width:270px; height:180px; border-style:solid; border-color:#a15425;}
+#olioTxt { font-family:Courier; font-size:21px; margin-right:50px; margin-top:50px; color:#a15425; text-align:left; }
+#vino { font-size:35px; text-align:right; margin-right:140px; color:#a15425; }
+#vinoImg {float:right; margin-left:50px; margin-right:70px;}
+#vinoDivImg { float:right; margin-right:-235px; width:210px; height:190px; border-style:solid; border-color:#a15425;}
+#vinoTxt { font-family:Courier; font-size:21px; margin-left:50px; color:#a15425; text-align:right; }
+#galline { font-size:35px; text-align:left; margin-left: 100px; margin-top: 100px; color:#a15425; }
+#gallineImg {float:left; margin-right:50px; margin-left:70px;}
+#gallineDivImg { float:left; margin-left:-252px; width:198px; height:188px; border-style:solid; border-color:#a15425;}
+#gallineTxt { font-family:Courier; font-size:21px; margin-right:50px; margin-top:50px; color:#a15425; text-align:left; }
+#conigli { font-size:35px; text-align:right; margin-right:130px; margin-top: 0px; color:#a15425; }
+#conigliImg {float:right; margin-left:50px; margin-right:70px;}
+#conigliDivImg { float:right; margin-right:-299px; width:246px; height:200px; border-style:solid; border-color:#a15425;}
+#conigliTxt { font-family:Courier; text-align:right; font-size:21px; margin-left:50px; margin-top:80px; margin-bottom:90px; color:#a15425; }
+#acqProd { background-color:#fff9d5;display: block;width:310px;height:40px;padding-top:10px;color:#a15425;text-decoration: none;cursor: pointer;font-size:25px;border-style:solid;border-width:2px;border-color:#a15425;border-radius:25px;}
+#prod { width:300px; text-align:center;}
+
+
+				/* acquisto + prenota */
+
+#tdPrenota { text-align:right; font-family:Courier; color:#a15425; }
+
+
+				/* login */
+
+.outer { display: table; width: 100%; }
+.middle { display: table-cell; vertical-align: middle; background-color: #eae1bc; }
+.inner { text-align:center; }
+#enterPlogin { font-family:Courier; font-size:23px; color:#a15425; margin:0; padding:0; }
+#divLogin{ padding-top:20px; padding-bottom:30px; }
+#welcome { font-family:Courier; font-size:36px; color:#a15425; margin:0; padding:0; }
+#aLogin { background-color:#fff9d5;display: block;text-align:center;height:30px;color:#a15425;text-decoration: none;cursor: pointer;font-size:25px;border-style:solid;border-width:2px;border-color:#a15425;border-radius:25px;}
+#aLogout { background-color:#fff9d5;display: block;text-align:center;width:10%;height:30px;color:#a15425;text-decoration: none;cursor: pointer;font-size:25px;border-style:solid;border-width:2px;border-color:#a15425;border-radius:25px;}
